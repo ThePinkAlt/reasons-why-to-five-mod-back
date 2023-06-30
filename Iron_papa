@@ -1,0 +1,1 @@
+/summon iron_golem ~ ~ ~ {CustomNameVisible:1b,Health:500f,PlayerCreated:0b,AngerTime:-10,CustomName:'{"text":"Iron Papa","color":"#FF0000","bold":true}',Attributes:[{Name:generic.max_health,Base:500}]}
